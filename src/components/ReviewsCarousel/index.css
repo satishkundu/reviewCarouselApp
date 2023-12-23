@@ -1,0 +1,5 @@
+/* Write your code here */
+.bg-container{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/reviews-bg.png");
+    height:100vh;
+}
